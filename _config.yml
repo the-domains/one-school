@@ -1,23 +1,18 @@
-name: null
-favicon: null
-layout_spectrum: 0.9749598470516503
-typography_spectrum: 0.841794608393684
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
-  brandColors: []
-  brandStrength: 0.49113981053233147
-  lightness: 0.06980901607312262
-  saturation: 0.5469512727577239
-  rhythmicContrast: 0.8210670596454293
+  brandColors:
+    - '#000000'
+    - '#261100'
+    - '#7D5C29'
+    - '#AC8A65'
+    - '#B87737'
+  brandStrength: 0.828125
+  lightness: 0.90767
+  rhythmicContrast: 0.951705
+  saturation: 0.784091
+cta: {}
+layout_spectrum: 0.9749598470516503
+name: One School
+opengraph: {}
 purpose: []
+typography_spectrum: 0.841794608393684
